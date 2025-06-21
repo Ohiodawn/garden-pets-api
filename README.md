@@ -120,7 +120,7 @@ Community content from Grow  a  Garden Fandom is under **CC BY‑SA 4.0*
 
 * **Issues & Feature Requests**: Open a GitHub issue
 * **Pull Requests**: Welcome — please follow the existing JSON schema
-* **Email**: [yourname@example.com](mailto:yourname@example.com)
+* **Email**: [p07096602@gmail.com](mailto:p07096602@gmail.com)
 
 ---
 
