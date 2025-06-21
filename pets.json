@@ -86,7 +86,7 @@
   {
     "id": "queen-bee",
     "name": "Queen Bee",
-    "rarity": "Craftable",
+    "rarity": "Divine",
     "icon": "icons/queen_bee.png",
     "skill": "Occasionally refreshes the ability of the pet with the highest cooldown. Also applies the Pollinated mutation."
   },
@@ -255,7 +255,7 @@
     "id": "dragonfly",
     "name": "Dragonfly",
     "rarity": "Mythical",
-    "icon": "icons/dragonfly.png",
+    "icon": "icons/dragon_fly.png",
     "skill": "Every now and then, turns a fruit to gold, giving it the Golden mutation."
   },
   {
@@ -378,10 +378,10 @@
     "skill": "Applies the Pollinated mutation to a nearby fruit."
   },
   {
-    "id": "bearbee",
-    "name": "Bearbee",
+    "id": "bear-bee",
+    "name": "Bear Bee",
     "rarity": "Event",
-    "icon": "icons/bearbee.png",
+    "icon": "icons/bear_bee.png",
     "skill": "Applies the Honey Glazed mutation to a nearby fruit."
   }
 ]
