@@ -1,0 +1,387 @@
+[
+  {
+    "id": "wasp",
+    "name": "Wasp",
+    "rarity": "Bug",
+    "icon": "icons/wasp.png",
+    "skill": "Occasionally stings the pet with the highest cooldown, advancing it. Also applies the Pollinated mutation."
+  },
+  {
+    "id": "turtle",
+    "name": "Turtle",
+    "rarity": "Legendary",
+    "icon": "icons/turtle.png",
+    "skill": "Slowing aura that makes sprinklers last longer."
+  },
+  {
+    "id": "tarantula-hawk",
+    "name": "Tarantula Hawk",
+    "rarity": "Bug",
+    "icon": "icons/tarantula_hawk.png",
+    "skill": "Applies the Pollinated mutation to a nearby fruit."
+  },
+  {
+    "id": "squirrel",
+    "name": "Squirrel",
+    "rarity": "Mythical",
+    "icon": "icons/squirrel.png",
+    "skill": "Planting seeds has a small chance to not be consumed. Rarer plants have a lower chance."
+  },
+  {
+    "id": "spotted-deer",
+    "name": "Spotted Deer",
+    "rarity": "Rare",
+    "icon": "icons/spotted_deer.png",
+    "skill": "When harvesting berry plants, there is a chance the fruit will remain."
+  },
+  {
+    "id": "snail",
+    "name": "Snail",
+    "rarity": "Bug",
+    "icon": "icons/snail.png",
+    "skill": "Increases the chance of a lucky harvest."
+  },
+  {
+    "id": "silver-monkey",
+    "name": "Silver Monkey",
+    "rarity": "Legendary",
+    "icon": "icons/silver_monkey.png",
+    "skill": "Grants a 3% chance to get your fruit back when you sell it."
+  },
+  {
+    "id": "sea-otter",
+    "name": "Sea Otter",
+    "rarity": "Legendary",
+    "icon": "icons/sea_otter.png",
+    "skill": "Waters plants randomly like a watering can."
+  },
+  {
+    "id": "rooster",
+    "name": "Rooster",
+    "rarity": "Rare",
+    "icon": "icons/rooster.png",
+    "skill": "Crows at dawn, providing a temporary boost to all player activities."
+  },
+  {
+    "id": "red-giant-ant",
+    "name": "Red Giant Ant",
+    "rarity": "Mythical",
+    "icon": "icons/red_giant_ant.png",
+    "skill": "Grants a small chance to duplicate harvested plants & Candy. Increased chance for candy type plants."
+  },
+  {
+    "id": "red-fox",
+    "name": "Red Fox",
+    "rarity": "Mythical",
+    "icon": "icons/red_fox.png",
+    "skill": "Periodically goes to another player's plot and attempts to steal a seed from a random plant."
+  },
+  {
+    "id": "raccoon",
+    "name": "Raccoon",
+    "rarity": "Night",
+    "icon": "icons/raccoon.png",
+    "skill": "Occasionally steals (duplicates) a fruit from another player's plot and gives it to you."
+  },
+  {
+    "id": "queen-bee",
+    "name": "Queen Bee",
+    "rarity": "Craftable",
+    "icon": "icons/queen_bee.png",
+    "skill": "Occasionally refreshes the ability of the pet with the highest cooldown. Also applies the Pollinated mutation."
+  },
+  {
+    "id": "praying-mantis",
+    "name": "Praying Mantis",
+    "rarity": "Bug",
+    "icon": "icons/praying_mantis.png",
+    "skill": "Prays, then gives plants in its AOE a buff that increases the chance of them becoming Golden."
+  },
+  {
+    "id": "polar-bear",
+    "name": "Polar Bear",
+    "rarity": "Legendary",
+    "icon": "icons/polar_bear.png",
+    "skill": "Occasionally sets a random nearby fruit cold, turning it into Chilled with a small chance for Frozen."
+  },
+  {
+    "id": "pig",
+    "name": "Pig",
+    "rarity": "Rare",
+    "icon": "icons/pig.png",
+    "skill": "Occasionally releases a fertilizing AOE that boosts plant size and mutation chance."
+  },
+  {
+    "id": "petal-bee",
+    "name": "Petal Bee",
+    "rarity": "Event",
+    "icon": "icons/petal_bee.png",
+    "skill": "Applies the Pollinated mutation to a nearby fruit."
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "rarity": "Event",
+    "icon": "icons/panda.png",
+    "skill": "Waddles to bamboo, eats it, and grants bonus Sheckles (more than normal value)."
+  },
+  {
+    "id": "pack-bee",
+    "name": "Pack Bee",
+    "rarity": "Craftable",
+    "icon": "icons/pack_bee.png",
+    "skill": "Increases the player's inventory capacity for honey and other bee products."
+  },
+  {
+    "id": "owl",
+    "name": "Owl",
+    "rarity": "Night",
+    "icon": "icons/owl.png",
+    "skill": "Grants a bonus experience per second gain to all active pets."
+  },
+  {
+    "id": "orangutan",
+    "name": "Orangutan",
+    "rarity": "Rare",
+    "icon": "icons/orangutan.png",
+    "skill": "Can skillfully harvest fruit from tall trees, increasing the yield."
+  },
+  {
+    "id": "orange-tabby",
+    "name": "Orange Tabby",
+    "rarity": "Rare",
+    "icon": "icons/orange_tabby.png",
+    "skill": "Naps in a random spot in your farm, emitting an aura that boosts nearby fruit size."
+  },
+  {
+    "id": "night-owl",
+    "name": "Night Owl",
+    "rarity": "Night",
+    "icon": "icons/night_owl.png",
+    "skill": "Grants bonus experience per second gain to all active pets."
+  },
+  {
+    "id": "moth",
+    "name": "Moth",
+    "rarity": "Bug",
+    "icon": "icons/moth.png",
+    "skill": "Sings to a random pet and magically restores its hunger."
+  },
+  {
+    "id": "moon-cat",
+    "name": "Moon Cat",
+    "rarity": "Event",
+    "icon": "icons/moon_cat.png",
+    "skill": "Naps to boost nearby fruit size and grants a chance for Night-type plants to replant when harvested."
+  },
+  {
+    "id": "monkey",
+    "name": "Monkey",
+    "rarity": "Rare",
+    "icon": "icons/monkey.png",
+    "skill": "Has a chance to find a banana, a high-value item, every 10 minutes."
+  },
+  {
+    "id": "mole",
+    "name": "Mole",
+    "rarity": "Night",
+    "icon": "icons/mole.png",
+    "skill": "Will occasionally dig down to find gear or Sheckles."
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "rarity": "Rare",
+    "icon": "icons/kiwi.png",
+    "skill": "Occasionally reduces the hatch time of the egg with the most hatch time left."
+  },
+  {
+    "id": "honey-bee",
+    "name": "Honey Bee",
+    "rarity": "Uncommon",
+    "icon": "icons/honey_bee.png",
+    "skill": "Applies the Pollinated mutation to a nearby fruit."
+  },
+  {
+    "id": "hedgehog",
+    "name": "Hedgehog",
+    "rarity": "Night",
+    "icon": "icons/hedgehog.png",
+    "skill": "Makes prickly fruit grow bigger."
+  },
+  {
+    "id": "grey-mouse",
+    "name": "Grey Mouse",
+    "rarity": "Mythical",
+    "icon": "icons/grey_mouse.png",
+    "skill": "Has a chance to find and retrieve lost seeds from the garden."
+  },
+  {
+    "id": "golden-lab",
+    "name": "Golden Lab",
+    "rarity": "Common",
+    "icon": "icons/golden_lab.png",
+    "skill": "Occasionally digs up a random seed at a higher chance."
+  },
+  {
+    "id": "giant-ant",
+    "name": "Giant Ant",
+    "rarity": "Bug",
+    "icon": "icons/giant_ant.png",
+    "skill": "Grants a small chance to duplicate harvested plants & Candy. Increased chance for candy type plants."
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "rarity": "Bug",
+    "icon": "icons/frog.png",
+    "skill": "Will occasionally advance a nearby plant's growth by 24 hours."
+  },
+  {
+    "id": "firefly",
+    "name": "Firefly",
+    "rarity": "Bug",
+    "icon": "icons/firefly.png",
+    "skill": "Illuminates a small area at night, revealing hidden items."
+  },
+  {
+    "id": "echo-frog",
+    "name": "Echo Frog",
+    "rarity": "Night",
+    "icon": "icons/echo_frog.png",
+    "skill": "Will occasionally advance a nearby plant's growth by 24 hours."
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonfly",
+    "rarity": "Mythical",
+    "icon": "icons/dragonfly.png",
+    "skill": "Every now and then, turns a fruit to gold, giving it the Golden mutation."
+  },
+  {
+    "id": "dog",
+    "name": "Dog",
+    "rarity": "Common",
+    "icon": "icons/dog.png",
+    "skill": "Attempts to dig up a seed with a 10% success chance."
+  },
+  {
+    "id": "disco-bee",
+    "name": "Disco Bee",
+    "rarity": "Event",
+    "icon": "icons/disco_bee.png",
+    "skill": "Occasionally has a chance to give a nearby fruit the Disco mutation."
+  },
+  {
+    "id": "deer",
+    "name": "Deer",
+    "rarity": "Uncommon",
+    "icon": "icons/deer.png",
+    "skill": "When harvesting berry plants, there is a chance the fruit will remain."
+  },
+  {
+    "id": "cow",
+    "name": "Cow",
+    "rarity": "Legendary",
+    "icon": "icons/cow.png",
+    "skill": "Emits a fertilizing aura that boosts nearby plant growth speed."
+  },
+  {
+    "id": "cooked-owl",
+    "name": "Cooked Owl",
+    "rarity": "Miscellaneous",
+    "icon": "icons/cooked_owl.png",
+    "skill": "Grants bonus experience per second gain to all active pets. Occasionally burns or cooks a random nearby fruit."
+  },
+  {
+    "id": "chicken-zombie",
+    "name": "Chicken Zombie",
+    "rarity": "Event",
+    "icon": "icons/chicken_zombie.png",
+    "skill": "Decreases the time needed to hatch other eggs and occasionally gives a nearby fruit the Zombified mutation."
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "rarity": "Common",
+    "icon": "icons/chicken.png",
+    "skill": "Decreases the time needed to hatch other eggs."
+  },
+  {
+    "id": "caterpillar",
+    "name": "Caterpillar",
+    "rarity": "Bug",
+    "icon": "icons/caterpillar.png",
+    "skill": "Boosts the growth rate of nearby Leafy plants."
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "rarity": "Common",
+    "icon": "icons/cat.png",
+    "skill": "Naps in a random spot in your farm, emitting an aura that boosts nearby fruit size."
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly",
+    "rarity": "Bug",
+    "icon": "icons/butterfly.png",
+    "skill": "Removes 5 mutations from a plant to grant it the Rainbow mutation."
+  },
+  {
+    "id": "bunny",
+    "name": "Bunny",
+    "rarity": "Common",
+    "icon": "icons/bunny.png",
+    "skill": "Runs to carrots, eats them, and grants bonus Sheckles (more than normal value)."
+  },
+  {
+    "id": "brown-mouse",
+    "name": "Brown Mouse",
+    "rarity": "Mythical",
+    "icon": "icons/brown_mouse.png",
+    "skill": "Scurries through the garden, occasionally finding dropped coins from visitors."
+  },
+  {
+    "id": "blood-owl",
+    "name": "Blood Owl",
+    "rarity": "Event",
+    "icon": "icons/blood_owl.png",
+    "skill": "Grants bonus experience per second gain to all active pets."
+  },
+  {
+    "id": "blood-kiwi",
+    "name": "Blood Kiwi",
+    "rarity": "Event",
+    "icon": "icons/blood_kiwi.png",
+    "skill": "Occasionally reduces the hatch time and boosts egg hatch speed."
+  },
+  {
+    "id": "blood-hedgehog",
+    "name": "Blood Hedgehog",
+    "rarity": "Event",
+    "icon": "icons/blood_hedgehog.png",
+    "skill": "Makes prickly fruit have an increased variant chance and grow bigger."
+  },
+  {
+    "id": "black-bunny",
+    "name": "Black Bunny",
+    "rarity": "Uncommon",
+    "icon": "icons/black_bunny.png",
+    "skill": "Searches for rare four-leaf clovers, providing a small luck boost to the player."
+  },
+  {
+    "id": "bee",
+    "name": "Bee",
+    "rarity": "Uncommon",
+    "icon": "icons/bee.png",
+    "skill": "Applies the Pollinated mutation to a nearby fruit."
+  },
+  {
+    "id": "bearbee",
+    "name": "Bearbee",
+    "rarity": "Event",
+    "icon": "icons/bearbee.png",
+    "skill": "Applies the Honey Glazed mutation to a nearby fruit."
+  }
+]
