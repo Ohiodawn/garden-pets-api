@@ -1,39 +1,41 @@
-# 🌱 Grow a Garden: Pets API for Roblox
+🌱 Grow a Garden: Pets API for Roblox
 
 A lightweight, JSON-based resource that lists all pet data and visual assets used in the Grow a Garden Roblox game. Ideal for in-game trackers, companion dashboards, or external tools.
 
----
+🐾 What’s Included
 
-## 🐾 What’s Included
-
-### `pets.json`
+pets.json
 
 An array of pet objects with these fields:
 
-* `id` *(string)* – Unique identifier
-* `name` *(string)* – Pet’s in-game name
-* `rarity` *(string)* – Common, Uncommon, Rare, Legendary, Mythical, Bug, Event, or Craftable
-* `icon` *(string)* – Path to the self-hosted PNG in `/icons/`
-* `skill` *(string)* – Pet’s in-game ability or effect
+id (string) – Unique identifier
 
-### `/icons/`
+name (string) – Pet’s in-game name
+
+rarity (string) – Common, Uncommon, Rare, Legendary, Mythical, Bug, Event, or Craftable
+
+icon (string) – Path to the self-hosted PNG in /icons/
+
+skill (string) – Pet’s in-game ability or effect
+
+/icons/
 
 PNG icons for each pet (web-optimized, 64×64px)
 
-### `ASSETS.md`
+ASSETS.md
 
-Table of icon attributions and licenses
+Table of icon attributions and license details
 
-### `LICENSE.md`
+LICENSE.md
 
-* **Code & JSON**: MIT License
-* **Icons & Images**: CC BY-SA 4.0 (community content)
+MIT License for code and data
 
----
+LICENSE-CCA.md
 
-## 📋 Folder Structure
+Creative Commons Attribution-ShareAlike 4.0 License for images
 
-```
+📋 Folder Structure
+
 garden-pets-api/
 ├── pets.json
 ├── icons/
@@ -42,16 +44,12 @@ garden-pets-api/
 │   ├── bunny.png
 │   └── …other pets…
 ├── ASSETS.md
-├── LICENSE.md
 ├── LICENSE-MIT.md
+├── LICENSE-CCA.md
 └── README.md
-```
 
----
+📜 Example pets.json Entry
 
-## 📜 Example `pets.json` Entry
-
-```json
 [
   {
     "id": "dog",
@@ -68,15 +66,11 @@ garden-pets-api/
     "skill": "Occasionally digs up a random seed at a higher chance."
   }
 ]
-```
 
----
-
-## 🌐 Usage
+🌐 Usage
 
 Once hosted on GitHub Pages, you can fetch and consume the full list of pets in one call:
 
-```js
 fetch("https://Ohiodawn.github.io/garden-pets-api/pets.json")
   .then(res => res.json())
   .then(pets => {
@@ -91,34 +85,30 @@ fetch("https://Ohiodawn.github.io/garden-pets-api/pets.json")
       document.body.appendChild(card);
     });
   });
-```
 
-🗂 **Versioning tip:** For future breaking changes, consider using `/v1/pets.json` or versioned folders.
+🗂 Versioning tip: For future breaking changes, consider using /v1/pets.json or versioned folders.
 
----
+⚠️ License & Attribution
 
-## ⚠️ License & Attribution
+Code & Data
 
-### Code & Data
+Released under the MIT License. See LICENSE.md.
 
-Released under the **MIT License**. See `LICENSE-MIT.md`.
+Icons & Images
 
-### Icons & Images
-
-Community content from Grow a Garden Fandom is under **CC BY-SA 4.0**. See `ASSETS.md` for full attributions.
+Community content from Grow a Garden Fandom is under CC BY-SA 4.0. See ASSETS.md for full attributions.
 
 You must:
 
-* Provide credit with a link to the original Fandom “File:” page.
-* Distribute any derivatives under **CC BY-SA 4.0**.
+Provide credit with a link to the original Fandom File page.
 
----
+Distribute any derivatives under CC BY-SA 4.0.
 
-## 📢 Contact & Contributions
+📢 Contact & Contributions
 
-* **Issues & Feature Requests**: Open a GitHub issue
-* **Pull Requests**: Welcome! Please follow the existing JSON schema
+Issues & Feature Requests: Open a GitHub issue
 
----
+Pull Requests: Welcome! Please follow the existing JSON schema
 
 🌼 Happy gardening!
+
