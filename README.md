@@ -105,7 +105,7 @@ fetch("https://yourusername.github.io/grow-a-garden-data/pets.json")
 
 ### Code & Data
 
-Released under the **MIT License**. See [`LICENSE.md`](LICENSE.md).
+Released under the **MIT License**. See [`LICENSE`](LICENSE).
 
 ### Icons & Images
 
