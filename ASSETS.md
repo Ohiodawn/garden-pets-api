@@ -33,6 +33,7 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/moon_cat.png` | Moon Cat | `https://grow-a-garden.fandom.com/wiki/File:Moon_cat.png` |
 | `/icons/monkey.png` | Monkey | `https://grow-a-garden.fandom.com/wiki/File:Monkey.png` |
 | `/icons/mole.png` | Mole | `https://grow-a-garden.fandom.com/wiki/File:Mole.png` |
+| `/icons/kiwi.png` | Kiwi | `https://grow-a-garden.fandom.com/wiki/File:Kiwi.png` |
 | `/icons/honey_bee.png` | Honey Bee | `https://grow-a-garden.fandom.com/wiki/File:Honey_bee.png` |
 | `/icons/hedgehog.png` | Hedgehog | `https://grow-a-garden.fandom.com/wiki/File:Hedgehog.png` |
 | `/icons/grey_mouse.png` | Grey Mouse | `https://grow-a-garden.fandom.com/wiki/File:Grey_mouse.png` |
@@ -41,6 +42,7 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/frog.png` | Frog | `https://grow-a-garden.fandom.com/wiki/File:Frog.png` |
 | `/icons/firefly.png` | Firefly | `https://grow-a-garden.fandom.com/wiki/File:Firefly.png` |
 | `/icons/echo_frog.png` | Echo Frog | `https://grow-a-garden.fandom.com/wiki/File:Echo_frog.png` |
+| `/icons/dragon_fly.png` | Dragonfly | `https://grow-a-garden.fandom.com/wiki/File:Dragon_fly.png` |
 | `/icons/dog.png` | Dog | `https://grow-a-garden.fandom.com/wiki/File:Dog.png` |
 | `/icons/disco_bee.png` | Disco Bee | `https://grow-a-garden.fandom.com/wiki/File:Disco_bee.png` |
 | `/icons/deer.png` | Deer | `https://grow-a-garden.fandom.com/wiki/File:Deer.png` |
@@ -58,7 +60,7 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/blood_hedgehog.png`| Blood Hedgehog | `https://grow-a-garden.fandom.com/wiki/File:Blood_hedgehog.png` |
 | `/icons/black_bunny.png` | Black Bunny | `https://grow-a-garden.fandom.com/wiki/File:Black_bunny.png` |
 | `/icons/bee.png` | Bee | `https://grow-a-garden.fandom.com/wiki/File:Bee.png` |
-| `/icons/bearbee.png` | Bearbee | `https://grow-a-garden.fandom.com/wiki/File:Bearbee.png` |
+| `/icons/bear_bee.png` | Bear Bee | `https://grow-a-garden.fandom.com/wiki/File:Bear_bee.png` |
 
 ---
 *Note: Please ensure these URLs point to the correct file pages on the Fandom wiki to maintain proper attribution.*
