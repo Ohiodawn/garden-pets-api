@@ -8,12 +8,18 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | :--- | :--- | :--- |
 | `/icons/wasp.png` | Wasp | `https://grow-a-garden.fandom.com/wiki/File:Wasp.png` |
 | `/icons/turtle.png` | Turtle | `https://grow-a-garden.fandom.com/wiki/File:Turtle.png` |
+| `/icons/toucan.png` | Toucan | `https://grow-a-garden.fandom.com/wiki/File:Toucan.png` |
 | `/icons/tarantula_hawk.png`| Tarantula Hawk | `https://grow-a-garden.fandom.com/wiki/File:Tarantula_hawk.png` |
+| `/icons/starfish.png` | Starfish | `https://grow-a-garden.fandom.com/wiki/File:Starfish.png` |
 | `/icons/squirrel.png` | Squirrel | `https://grow-a-garden.fandom.com/wiki/File:Squirrel.png` |
 | `/icons/spotted_deer.png` | Spotted Deer | `https://grow-a-garden.fandom.com/wiki/File:Spotted_deer.png` |
 | `/icons/snail.png` | Snail | `https://grow-a-garden.fandom.com/wiki/File:Snail.png` |
 | `/icons/silver_monkey.png`| Silver Monkey | `https://grow-a-garden.fandom.com/wiki/File:Silver_monkey.png` |
+| `/icons/seagull.png` | Seagull | `https://grow-a-garden.fandom.com/wiki/File:Seagull.png` |
+| `/icons/sea_turtle.png` | Sea Turtle | `https://grow-a-garden.fandom.com/wiki/File:Sea_turtle.png` |
 | `/icons/sea_otter.png` | Sea Otter | `https://grow-a-garden.fandom.com/wiki/File:Sea_otter.png` |
+| `/icons/seal.png` | Seal | `https://grow-a-garden.fandom.com/wiki/File:Seal.png` |
+| `/icons/scarlet_macaw.png`| Scarlet Macaw | `https://grow-a-garden.fandom.com/wiki/File:Scarlet_macaw.png` |
 | `/icons/rooster.png` | Rooster | `https://grow-a-garden.fandom.com/wiki/File:Rooster.png` |
 | `/icons/red_giant_ant.png`| Red Giant Ant | `https://grow-a-garden.fandom.com/wiki/File:Red_giant_ant.png` |
 | `/icons/red_fox.png` | Red Fox | `https://grow-a-garden.fandom.com/wiki/File:Red_fox.png` |
@@ -23,8 +29,10 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/polar_bear.png` | Polar Bear | `https://grow-a-garden.fandom.com/wiki/File:Polar_bear.png` |
 | `/icons/pig.png` | Pig | `https://grow-a-garden.fandom.com/wiki/File:Pig.png` |
 | `/icons/petal_bee.png` | Petal Bee | `https://grow-a-garden.fandom.com/wiki/File:Petal_bee.png` |
+| `/icons/peacock.png` | Peacock | `https://grow-a-garden.fandom.com/wiki/File:Peacock.png` |
 | `/icons/panda.png` | Panda | `https://grow-a-garden.fandom.com/wiki/File:Panda.png` |
 | `/icons/pack_bee.png` | Pack Bee | `https://grow-a-garden.fandom.com/wiki/File:Pack_bee.png` |
+| `/icons/ostrich.png` | Ostrich | `https://grow-a-garden.fandom.com/wiki/File:Ostrich.png` |
 | `/icons/owl.png` | Owl | `https://grow-a-garden.fandom.com/wiki/File:Owl.png` |
 | `/icons/orangutan.png` | Orangutan | `https://grow-a-garden.fandom.com/wiki/File:Orangutan.png` |
 | `/icons/orange_tabby.png`| Orange Tabby | `https://grow-a-garden.fandom.com/wiki/File:Orange_tabby.png` |
@@ -33,6 +41,7 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/moon_cat.png` | Moon Cat | `https://grow-a-garden.fandom.com/wiki/File:Moon_cat.png` |
 | `/icons/monkey.png` | Monkey | `https://grow-a-garden.fandom.com/wiki/File:Monkey.png` |
 | `/icons/mole.png` | Mole | `https://grow-a-garden.fandom.com/wiki/File:Mole.png` |
+| `/icons/mimic_octopus.png`| Mimic Octopus | `https://grow-a-garden.fandom.com/wiki/File:Mimic_octopus.png` |
 | `/icons/kiwi.png` | Kiwi | `https://grow-a-garden.fandom.com/wiki/File:Kiwi.png` |
 | `/icons/honey_bee.png` | Honey Bee | `https://grow-a-garden.fandom.com/wiki/File:Honey_bee.png` |
 | `/icons/hedgehog.png` | Hedgehog | `https://grow-a-garden.fandom.com/wiki/File:Hedgehog.png` |
@@ -40,12 +49,14 @@ Community content on Fandom is available under the [Creative Commons Attribution
 | `/icons/golden_lab.png` | Golden Lab | `https://grow-a-garden.fandom.com/wiki/File:Golden_lab.png` |
 | `/icons/giant_ant.png` | Giant Ant | `https://grow-a-garden.fandom.com/wiki/File:Giant_ant.png` |
 | `/icons/frog.png` | Frog | `https://grow-a-garden.fandom.com/wiki/File:Frog.png` |
+| `/icons/flamingo.png` | Flamingo | `https://grow-a-garden.fandom.com/wiki/File:Flamingo.png` |
 | `/icons/firefly.png` | Firefly | `https://grow-a-garden.fandom.com/wiki/File:Firefly.png` |
 | `/icons/echo_frog.png` | Echo Frog | `https://grow-a-garden.fandom.com/wiki/File:Echo_frog.png` |
 | `/icons/dragon_fly.png` | Dragonfly | `https://grow-a-garden.fandom.com/wiki/File:Dragon_fly.png` |
 | `/icons/dog.png` | Dog | `https://grow-a-garden.fandom.com/wiki/File:Dog.png` |
 | `/icons/disco_bee.png` | Disco Bee | `https://grow-a-garden.fandom.com/wiki/File:Disco_bee.png` |
 | `/icons/deer.png` | Deer | `https://grow-a-garden.fandom.com/wiki/File:Deer.png` |
+| `/icons/crab.png` | Crab | `https://grow-a-garden.fandom.com/wiki/File:Crab.png` |
 | `/icons/cow.png` | Cow | `https://grow-a-garden.fandom.com/wiki/File:Cow.png` |
 | `/icons/cooked_owl.png` | Cooked Owl | `https://grow-a-garden.fandom.com/wiki/File:Cooked_owl.png` |
 | `/icons/chicken_zombie.png`| Chicken Zombie | `https://grow-a-garden.fandom.com/wiki/File:Chicken_zombie.png` |
